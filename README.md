@@ -21,7 +21,7 @@ This lab highlights:
 ---
 
 ## ⚙️ Files
-- **`COM6104-Week9-LoRA-Finetuning.ipynb`** → Notebook with full workflow.  
+- **`lora.ipynb`** → Notebook with full workflow.  
 ---
 
 ## 📊 Key Steps
