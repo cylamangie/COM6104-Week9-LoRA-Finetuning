@@ -1,0 +1,7 @@
+```txt
+transformers
+peft
+bitsandbytes
+accelerate
+loralib
+torch
